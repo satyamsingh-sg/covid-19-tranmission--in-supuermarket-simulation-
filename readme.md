@@ -4,12 +4,7 @@
 
 ---
 
-GROUP MEMEBERS
 
-- Dishant Tayade
-- Hardik Sharma
-- Satyam Kumar Singh
-- Nishchay Verma
 
 ---
 
